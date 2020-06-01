@@ -6,7 +6,7 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
  - **3.How have viewership, TV ratings, and ad cost evolved over time?**   
  - **4.Who are the most prolific musicians in terms of halftime show performances?**
 
- ![alt text](https://assets.datacamp.com/production/project_684/img/left_shark.jpg)  
+ ![alt text](1.jpg)  
  [Left Shark Steals The Show.](https://www.flickr.com/photos/huntleypaton/16464994135/in/photostream/)       
  **[Katy Perry](https://www.katyperry.com/)** performing at halftime of Super Bowl XLIX. Photo by Huntley Paton. Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0).
 
